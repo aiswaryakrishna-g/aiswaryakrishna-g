@@ -1,24 +1,55 @@
+[PROFILE_README.md](https://github.com/user-attachments/files/32214145/PROFILE_README.md)
 <h1 align="center">Hi 👋, I'm Aiswarya Krishna G</h1>
-<h3 align="center">A passionate, Certified Data Analyst from India</h3>
+<h3 align="center">Certified Data Analyst | Currently working in an Expert role — Insurance Operations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiswaryakrishna-g&label=Profile%20views&color=0e75b6&style=flat" alt="aiswaryakrishna-g" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiswaryakrishna-g" alt="aiswaryakrishna-g" /></a> </p>
-
-- 🌱 I’m currently learning **MS EXCEL, POWER BI, MSQL, PYTHON**
-
-- 📫 How to reach me **aiswaryalakshmivilas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aiswarya-krishna-g-7a9b588b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aiswarya-krishna-g-7a9b588b/" height="30" width="40" /></a>
+<p align="center">
+  📊 Turning raw data into decisions &nbsp;|&nbsp; 🌱 Always eager to learn new skills &nbsp;|&nbsp; 🔍 Curious about people, patterns & processes
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiswaryakrishna-g&show_icons=true&locale=en&layout=compact" alt="aiswaryakrishna-g" /></p>
+### 🛠️ Skills & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiswaryakrishna-g&show_icons=true&locale=en" alt="aiswaryakrishna-g" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiswaryakrishna-g&" alt="aiswaryakrishna-g" /></p>
+---
+
+### 🚀 Featured Projects
+
+**[Mini Project: HR Analytics & Visualization — Global Workforce Trends](https://github.com/aiswaryakrishna-g/Mini-Project-HR-Analytics-Visualization-Global-Workforce-Trends)**
+An end-to-end HR analytics project simulating a global company's workforce (2014–2025). Covers data cleaning in Excel/Power Query, DAX-driven data modeling, and a 5-page interactive Power BI dashboard with drillthrough, KPIs, and data-backed recommendations.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aiswaryakrishna-g&show_icons=true&theme=default" alt="Aiswarya's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiswaryakrishna-g&theme=default" alt="Aiswarya's Streak Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aiswaryakrishna-g&theme=flat&no-frame=true&row=1&column=6" alt="Aiswarya's Trophies" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aiswarya-krishna-g-7a9b588b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aiswaryalakshmivilas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! ✨</i></p>
