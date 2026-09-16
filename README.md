@@ -1,4 +1,4 @@
-[README new.md](https://github.com/user-attachments/files/32281394/README.new.md)
+[README new.md](https://github.com/user-attachments/files/32281601/README.new.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Aiswarya%20Krishna%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Certified%20Data%20Analyst%20%7C%20Insurance%20Operations%20Expert&descAlignY=58&descSize=18" width="100%"/>
