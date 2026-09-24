@@ -1,9 +1,9 @@
-[README new.md](https://github.com/user-attachments/files/32281601/README.new.md)
+[README pf2.md](https://github.com/user-attachments/files/32602228/README.pf2.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Aiswarya%20Krishna%20G&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Certified%20Data%20Analyst%20%7C%20Insurance%20Operations%20Expert&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%2C%20I'm%20Aiswarya%20Krishna%20G&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Certified%20Data%20Analyst%20%7C%20Insurance%20Operations%20Expert&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+dashboards+that+tell+stories+%F0%9F%93%88;Always+eager+to+learn+new+skills+%F0%9F%8C%B1;Curious+about+people%2C+patterns+%26+processes+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+dashboards+that+tell+stories+%F0%9F%93%88;Always+eager+to+learn+new+skills+%F0%9F%8C%B1;Curious+about+people%2C+patterns+%26+processes+%F0%9F%94%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -27,18 +27,20 @@
 
 ## 👩‍💻 About Me
 
-- 📊 **Certified Data Analyst**, currently working in an **Expert role — Insurance Operations**
-- 🔍 Passionate about uncovering patterns in data and turning them into clear, actionable insights
-- 🛠️ Skilled in building end-to-end analytics workflows — from raw data to polished dashboards
-- 🌱 Always leveling up: currently deepening my skills in Power BI, SQL, and Python for analytics
-- 🤝 Open to collaborating on data analytics, visualization, and reporting projects
-- ⚡ Fun fact: I enjoy turning messy spreadsheets into stories that make sense to everyone
+```yaml
+name: Aiswarya Krishna G
+role: Certified Data Analyst — Insurance Operations (Expert)
+focus: Transforming raw, messy data into clear, decision-ready insights
+currently_learning: [Power BI, SQL, Python for Analytics]
+looking_to_collaborate_on: [Data Analytics, Visualization, Reporting Projects]
+fun_fact: "I enjoy turning messy spreadsheets into stories that make sense to everyone ✨"
+```
 
 <br/>
 
 ## 🛠️ Skills & Tools
 
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -55,19 +57,42 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 📊 [HR Analytics & Visualization — Global Workforce Trends](https://github.com/aiswaryakrishna-g/Mini-Project-HR-Analytics-Visualization-Global-Workforce-Trends)
+### 📊 HR Analytics & Visualization
+**Global Workforce Trends**
 
 An end-to-end HR analytics project simulating a global company's workforce (2014–2025).
 
-- 🧹 Data cleaning and transformation in **Excel / Power Query**
+- 🧹 Data cleaning & transformation in **Excel / Power Query**
 - 🧮 **DAX-driven** data modeling for scalable analysis
-- 📈 A **5-page interactive Power BI dashboard** with drillthrough, KPIs, and data-backed recommendations
+- 📈 **5-page interactive Power BI dashboard** with drillthrough, KPIs, and data-backed recommendations
 
-`#PowerBI` `#Excel` `#DAX` `#HRAnalytics` `#DataVisualization`
+`#PowerBI` `#Excel` `#DAX` `#HRAnalytics`
+
+<a href="https://github.com/aiswaryakrishna-g/Mini-Project-HR-Analytics-Visualization-Global-Workforce-Trends">
+  <img src="https://img.shields.io/badge/View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Codeathon Assignment
+**Sales Data Analysis**
+
+Imported, cleaned, and modeled a raw customer order dataset in Power BI.
+
+- 🧹 Data cleaning & transformation of raw order-level data
+- 🧮 Data modeling to support multi-dimensional analysis
+- 📈 **3-page interactive Power BI dashboard** revealing order and profit trends across regions, products, and time
+
+`#PowerBI` `#DataCleaning` `#SalesAnalytics`
+
+<a href="https://github.com/aiswaryakrishna-g/CODEATHON-ASSIGNMENT_SALES-DATA">
+  <img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -82,7 +107,7 @@ An end-to-end HR analytics project simulating a global company's workforce (2014
 <img src="https://github-readme-stats.vercel.app/api?username=aiswaryakrishna-g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aiswarya's GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiswaryakrishna-g&theme=tokyonight&hide_border=true" alt="Aiswarya's Streak Stats" height="165"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiswaryakrishna-g&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
@@ -96,13 +121,16 @@ An end-to-end HR analytics project simulating a global company's workforce (2014
 
 ## 📫 Let's Connect
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/aiswarya-krishna-g-7a9b588b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:aiswaryalakshmivilas@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/aiswaryakrishna-g">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -111,7 +139,7 @@ An end-to-end HR analytics project simulating a global company's workforce (2014
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer" width="100%"/>
 
 <i>Thanks for stopping by — feel free to explore my projects and connect! ✨</i>
 
